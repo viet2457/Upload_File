@@ -1,7 +1,7 @@
 # Nghiên cứu & Minh họa Các Lỗ hổng Bảo mật Ứng dụng Web và Phương pháp Phòng thủ
 
 ## Giới thiệu
-Dự án này là một ứng dụng web Java (JSP/Servlet) được xây dựng nhằm mục đích giáo dục và nghiên cứu bảo mật. Nó mô phỏng các lỗ hổng bảo mật phổ biến liên quan đến tính năng upload file trong các ứng dụng web, cho phép người dùng thực hành các kỹ thuật khai thác và tìm hiểu cách phòng chống.
+Dự án này là một ứng dụng web Java (JSP/Servlet) được xây dựng để nghiên cứu bảo mật. Nó mô phỏng các lỗ hổng bảo mật phổ biến liên quan đến tính năng upload file trong các ứng dụng web, cho phép người dùng thực hành các kỹ thuật khai thác và tìm hiểu cách phòng chống.
 
 ## Cấu trúc Dự án
 Thư mục chính `vuln-java-web` chứa mã nguồn của dự án Maven.
