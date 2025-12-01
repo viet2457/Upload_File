@@ -47,5 +47,3 @@ Dựa trên tài liệu nội bộ, dự án hỗ trợ thực hành các kỹ t
 2. Khởi động Tomcat (`bin/startup.bat` hoặc `bin/startup.sh`).
 3. Truy cập ứng dụng qua trình duyệt (thường là `http://localhost:8080`).
 
-## Tài liệu tham khảo
-Xem thêm chi tiết về các payload và kỹ thuật khai thác trong file `vuln-java-web/README.md`.
